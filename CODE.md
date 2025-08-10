@@ -15,5 +15,3 @@
 
 # Para concluir:
 - Adicionar horario do dia da conclusão da tarefa
-- Fazer com que as barras de data apareçam automaticamente no input (exm: 27/07/2006)
-- tratar os erros com try except
