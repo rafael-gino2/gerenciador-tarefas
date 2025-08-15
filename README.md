@@ -20,7 +20,7 @@ Obs: O projeto ainda está em desenvolvimento, alguns pequenos erros ainda vão 
 
 ## 📌 Tecnologias (por enquanto)
 
-- Python (POO)
+- Python
 
 ## 💡 Objetivo
 
