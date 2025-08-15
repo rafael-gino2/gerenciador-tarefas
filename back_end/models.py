@@ -20,8 +20,7 @@ def adicionar_tarefa(nome, descricao, data_conclusao_str):
                 "Descrição": descricao,
                 "Data de Criação": datetime.now(),
                 "Data de conclusão": data_conclusao_str,
-                "Finalizada": False,
-                "Status da tarefa": status(False, data_conclusao_str)
+                "Finalizada": False, #A tarefa inicia com False, pois ela começa como pendente.
             }
             inserindo_db = tarefas_collection.insert_one(tarefa) #usa o metodo insert_one do mongodb para inserir a tarefa na coleção
             print("Tarefa inserida com id:", inserindo_db.inserted_id)
