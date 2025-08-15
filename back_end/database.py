@@ -4,7 +4,7 @@ import os
 
 load_dotenv() #para carregar td q tem no dotenv
 
-# Sua URI do MongoDB (aquela que você copiou)
+#  URI do MongoDB
 uri = os.getenv("uri_mongo")
 
 # Conectando ao MongoDB
