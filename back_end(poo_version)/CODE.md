@@ -1,4 +1,4 @@
-## Projeto: Sistema de Controle de Tarefas com Interface + Banco de Dados
+## Projeto: Sistema de Controle de Tarefas com Interface + Banco de Dados (POO Version)
 
 ## Ideia do projeto: Criar um site onde o usuário possa cadastrar, editar e concluir tarefas, com salvamento em banco de dados local.
 
