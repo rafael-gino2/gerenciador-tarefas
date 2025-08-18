@@ -12,7 +12,7 @@ Este é um projeto simples de gerenciador de tarefas feito em Python com foco em
 - [x] Atribuição automática de ID
 - [x] Visualização de status (pendente ou finalizada)
 - [ ] Listar tarefas por status
-- [ ] Remover tarefas
+- [x] Remover tarefas
 - [ ] Interface visual
 Entre outras!
 
