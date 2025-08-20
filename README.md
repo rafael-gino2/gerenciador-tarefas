@@ -33,4 +33,4 @@ Praticar os conceitos fundamentais de POO e estruturação de projetos Python at
 Por enquanto, o projeto roda diretamente pelo terminal. Exemplo:
 
 ```bash
-python main.py
+python models.py
