@@ -1,0 +1,8 @@
+.pro-sidebar {
+  background-color: #1f2937; /* fundo escuro */
+  color: #fff; /* texto branco */
+}
+
+.pro-sidebar .pro-menu-item {
+  padding: 10px 20px;
+}
